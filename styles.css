@@ -1,0 +1,23 @@
+/* CSS */
+
+#background {
+  background-color: purple;
+}
+#fontcolour {
+  color: white;
+  font-family: "Trebuchet MS";
+}
+.btn {
+  background: gray;
+  width: 120x;
+  height: 20px;
+  display: inline-block;
+}
+.btn:hover {
+  color: white;
+  background: black;
+}
+.textContent {
+  color: white;
+  font-family: "Trebuchet MS";
+}
