@@ -2,6 +2,7 @@
 
 #background {
   background-color: purple;
+  transition: 1s;
 }
 #fontcolour {
   color: white;
